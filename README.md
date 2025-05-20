@@ -1,33 +1,32 @@
 # **Boris Barcelli**  
-### Principal Software Engineer | Technical Leader | Problem Solver  
+### Principal Software Engineer | Technical Leader
 📧 boris.barcelli@gmail.com | 📞 021 944 713 | [LinkedIn](https://www.linkedin.com/in/borisbarcelli/)  
 
-> "In an era of information abundance, the skill of finding, analyzing, and processing information is key."  
-
----  
+---
 
 ## 🚀 About Me  
-I’m a hands-on technical leader with over 20 years of experience in **software engineering, data solutions, and system integration**. I specialize in **architecting and building scalable data systems** and leading teams to deliver impactful business solutions through **innovative data strategies** and **software development best practices**.
+I’m a hands-on technical leader with over 20 years of experience in **software engineering, data architecture, and system integration**. I specialize in **building scalable systems**, **modernizing legacy platforms**, and leading teams to deliver robust business solutions through **practical architecture** and **deep technical execution**.
 
-At **Holmes**, I’ve led **data initiatives** and **software development projects**, leveraging technologies like **SQL Server, Azure**, and **DevOps** to create highly reliable and scalable data solutions. I’m passionate about working closely with teams to solve complex data challenges, fostering collaboration, and mentoring engineers to push the boundaries of **digital innovation** in construction and engineering.
+At **Holmes**, I’ve architected and implemented **integrated data systems**, led **multi-disciplinary development teams**, and delivered platforms that power engineering processes—from **earthquake bracing** to **BIM automation**. I'm fluent in the full stack, from databases and infrastructure to APIs, front-end tooling, and DevOps pipelines.
 
 ---
 
 ## 🔑 Key Skills & Technologies  
 
-- **Data Engineering & Software Development:**  
-  - **Building**: C#, SQL Server, TypeScript, Python  
-  - **Data Engineering**: SQL Server, Azure Data Factory, Azure Functions, Logic Apps  
-  - **Data Modeling**: Fully structured SQL schemas, semi-structured data, NoSQL, raw file storage  
-  - **DevOps**: GitHub, GitHub Actions, Azure DevOps, PowerShell, CI/CD pipelines  
-  - **AI & Automation**: OpenAI, Python, LLM-based machine learning pipelines  
-  - **System Integration**: API development, ERP integrations, Business Intelligence  
+- **Software Engineering & Data Systems:**  
+  - **Languages & Tools**: C#, SQL Server, Python, TypeScript, PowerShell  
+  - **Frameworks**: .NET, Azure Functions, React, Revit API  
+  - **Data Engineering**: Azure Data Factory, SSDT, Logic Apps, Durable Functions  
+  - **Data Modeling**: Relational schemas, semi-structured data, NoSQL, raw file processing  
+  - **DevOps**: GitHub Actions, Azure DevOps, CI/CD targeting branches and subfolders  
+  - **Integration**: API development, ERP & EDI integrations (X12/EDIFACT), Microsoft Data API Builder  
+  - **Cloud Platforms**: Azure Static Web Apps, VMs, PaaS  
 
-- **Leadership & Agile Practices:**  
-  - Transforming teams with **Scrum** and **Kanban**  
-  - Coaching engineers on **Agile practices**, **CI/CD**, and **DevOps**  
-  - Leading cross-functional teams in **data engineering**, **software development**, and **digital innovation**  
-  - Delivering business value by aligning technical solutions with strategy  
+- **Technical Leadership & Agile Delivery:**  
+  - Leading cross-functional teams in **data engineering**, **software development**, and **integration architecture**  
+  - Coaching engineers on **Agile**, **DevOps**, **CI/CD**, and **clean code principles**  
+  - Bridging strategy and execution through **solution architecture** and **technical mentoring**  
+  - Delivering technical outcomes aligned with **business value and stakeholder goals**
 
 ---
 
@@ -35,38 +34,41 @@ At **Holmes**, I’ve led **data initiatives** and **software development projec
 
 ### **Holmes Group** (2021 – Present)  
 **Data and Software Lead**  
-- Lead and mentor two teams in delivering data solutions and software projects using **Kanban** and **Scrum**  
-- Designed and **built common data models** and **databases** for **structural engineering** and **BIM** data, implementing a combination of structured SQL schemas, semi-structured data, and raw text file storage to meet specific data needs  
-- **Version-controlled** and **DevOps-managed** all databases with **GitHub Actions** and **Azure DevOps**, ensuring scalability and reliability  
-- Developed **data pipelines using Azure Data Factory** to integrate **ERP data** into the data warehouse, streamlining reporting and analytics  
-- Created an **Azure Durable Function** leveraging the **OpenAI API** to process thousands of project design reports, extracting and querying key BIM design properties  
-- Leading efforts to automate **BIM** and **structural engineering** processes, delivering impactful solutions for **earthquake bracing design** using a **TypeScript-based Excel Add-in**, **Revit API**, and a **Python calculation engine**  
-- Established best practices for **CI/CD pipelines** and **SQL schema versioning** within **DevOps**  
-- Mentoring engineers on **Agile**, **development best practices**, and **digital innovation**  
+- Lead two high-performing teams in delivering technical solutions using **Scrum** and **Kanban**  
+- Designed and maintained a **relational SQL Server schema** for structural engineering data with tight constraints for data integrity  
+- Created a **semi-structured BIM data platform** using a raw schema and **stored procedures for pivoting and transformation**, reflecting the dynamic nature of Revit-generated data  
+- Employed **SSDT for schema versioning** integrated with **CI/CD via GitHub Actions and Azure DevOps**, enabling automated validation and safe rollout  
+- Built **Azure Data Factory pipelines** for ERP data ingestion, with monitoring and alerting mechanisms for data quality and pipeline failures via email notifications  
+- Developed a **Python-based Azure Durable Function** orchestrating OpenAI document processing, including prompt templating and parsing logic for engineering reports  
+- Delivered a **React/TypeScript Excel web add-in**, hosted in **Azure Static Web Apps**, interacting with the BIM DB via **Microsoft Data API Builder**  
+- Connected **Python engines and Revit API** modules to the BIM DB via ODBC for real-time automation of engineering workflows  
+- Implemented environment-aware **CI/CD targeting by branch and repo subfolder**, enabling isolated pipelines per technology  
+- Mentored engineers on **DevOps**, **data modeling**, and **delivery best practices**, fostering a high-trust engineering culture  
 
 ### **Cin7** (2020 – 2021)  
 **Engineering Manager - Integrations**  
-- Managed an **EDI/3PL integrations team** and implemented **Kanban**  
-- Led the adoption of **Scrum** across the Product & Engineering departments  
-- Ran **Scrum workshops** to improve Agile processes  
-- Created a **career pathway framework** to recognize and reward top engineers  
-- Handled high-risk **customer and trading partner escalations** to improve retention  
+- Managed the **EDI/3PL integrations team**, supporting complex trading partner workflows including **X12 and EDIFACT** standards  
+- Implemented **Kanban** to streamline delivery flow; led the **Scrum adoption** company-wide across engineering and product teams  
+- Delivered **Scrum workshops** to uplift Agile maturity and increase collaboration  
+- Built a **career development framework** for engineers, improving retention and growth  
+- Acted as technical escalation lead for customer and partner integration issues, balancing delivery velocity with customer success  
 
 ### **BidOne / Bidfood / Bidvest NZ** (2015 – 2020)  
+
 #### **Integration Services Manager / Cloud Transition PM** (2019 – 2020)  
-- Led the **global transition** of BidOne’s eCommerce platform to **Azure Cloud**  
-- Expanded the **Integration Services Team** to own **EDI, Punchout catalogs, Web APIs, and ERP integrations**  
+- Led the **global cloud migration** of BidOne’s eCommerce stack to **Azure-based infrastructure**, performing a **lift-and-shift to VMs**  
+- Built and scaled the **Integration Services Team**, taking ownership of **Punchout catalogs**, **EDI workflows**, **Web API endpoints**, and **ERP connectors**  
 
 #### **Technical Account Manager** (2018 – 2019)  
-- Managed **customer relationships** for **6 BidOne clients** across **Europe, South Africa, and South America**  
-- Gathered business requirements to align product development with customer needs  
-- Ensured **strategic alignment** of new feature development with **BidOne’s long-term vision**  
+- Managed enterprise client relationships across **Europe, South Africa, and South America**, acting as both product liaison and technical advocate  
+- Gathered business requirements and translated them into product features and integration specifications  
+- Ensured strategic technical alignment between client implementations and product roadmap  
 
 #### **Development Manager** (2015 – 2018)  
-- Scaled the development team from **8 to 25 engineers**  
-- Doubled eCommerce transaction value to **NZD $3B in 2018**  
-- Transformed the **release process** from ad-hoc manual deployments to a **DevOps-driven CI/CD pipeline**  
-- Led the **BizTalk upgrade** from **BTS 2010 to BTS 2013 R2**, handling **500K+ orders annually**  
+- Scaled the engineering team from **8 to 25 developers** while preserving code quality and delivery cadence  
+- Spearheaded the transition from manual deployments to a **CI/CD DevOps pipeline**, improving release confidence and cycle time  
+- Led the **BizTalk upgrade from BTS 2010 to 2013 R2**, managing over **500,000 EDI transactions annually**  
+- Drove performance and reliability improvements, doubling eCommerce transaction value to **NZD $3B in 2018**  
 
 ### **Previous Roles**  
 #### **Various Clients** – **Contractor Full Stack Developer** (2014 – 2015)  
@@ -78,26 +80,26 @@ At **Holmes**, I’ve led **data initiatives** and **software development projec
 #### **Elior (France)** – **Software Engineer .NET** (2004 – 2007)  
 #### **French Air Force** – **Software Engineer .NET** (2003 – 2004)  
 
----  
+---
 
 ## 📚 Education & Certifications  
 🎓 **Master in Computer Science** - Montpellier University (France)  
 🎓 **Umbraco Certified Developer**  
 
----  
+---
 
 ## 🎯 What I Bring to the Table  
-✔ **Problem Solver**: I architect data-driven solutions that deliver business value.  
-✔ **Hands-on Leadership**: I lead by example, coaching and mentoring teams to excel in **Agile**, **DevOps**, and **data engineering**.  
-✔ **Data-Driven Innovation**: I create scalable, reliable data solutions that power **digital transformation** in engineering and construction.  
-✔ **Technical Expertise**: From **SQL Server** to **Azure Data Factory**, I bring deep technical skills in **data modeling**, **integration**, and **automation**.  
+✔ **Architect & Builder**: I lead with architecture, but stay hands-on to ship quality software  
+✔ **Mentor & Multiplier**: I invest in coaching engineers to grow skills, confidence, and delivery impact  
+✔ **Systems Thinker**: I design solutions that scale across **data, integration, and application layers**  
+✔ **Trusted Delivery Partner**: I align technical decisions with business priorities and stakeholder value  
 
----  
+---
 
 ## 🎿 Outside of Code  
-When I’m not engineering software, I’m out exploring the world—**hiking, trail running, snowboarding, surfing, and more recently Thai boxing**. Having lived in **France, New Caledonia, Morocco, and New Zealand**, I value diverse experiences both in tech and in life.  
+When I’m not engineering software, I’m exploring the outdoors—**hiking, trail running, snowboarding, surfing, and recently, Thai boxing**. Having lived in **France, New Caledonia, Morocco, and New Zealand**, I bring a global perspective to my work and relationships.  
 
----  
+---
 
 ### 📫 Get in Touch  
-Let’s talk about solving hard problems with elegant solutions. Reach out via **[LinkedIn](https://www.linkedin.com/in/borisbarcelli/)** or email me at **boris.barcelli@gmail.com**.  
+Let’s talk about building better systems. Reach out via **[LinkedIn](https://www.linkedin.com/in/borisbarcelli/)** or email me at **boris.barcelli@gmail.com**.  
